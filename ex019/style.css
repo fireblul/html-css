@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+            background-color: rgb(229, 231, 230);
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 20px;
+
+        }
+        h1{
+            font-family: fantasy;
+            
+        }
+        h2{
+            color: rgb(226, 26, 26);
+            font-family: monospace;
+
+        }

@@ -1,0 +1,30 @@
+@charset "UTF8";
+
+body{
+    
+    background-color: #3b3d3d;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+h1{
+    color: rgb(138, 240, 240);
+    
+
+}
+h1#principal{
+    font-family: Verdana, Geneva, Tahoma, sans-serif Times, serif ;
+;
+    text-align: center;
+    font-size: 64px;
+
+}
+h2{
+    color: rgb(189, 189, 240);
+
+}
+.secundario{
+    color: orange;
+
+}

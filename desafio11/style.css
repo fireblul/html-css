@@ -8,7 +8,8 @@
     padding: 0;
 }
 body{
-    background-color: blanchedalmond;
+    background: url(imagens/background001.jpg) center center fixed;
+    
 
 }
 header{
@@ -28,11 +29,51 @@ header{
 #cordeu{
     text-align: left;
     font-family: 'Sriracha','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
     
     
 }
 #cordeu p{
-    margin: 0px 15px;
-    font-size: 25px;
-    line-height: 1.6;
+    font-size: 30px;
+    line-height: 1.8;
+         background-color: rgb(231, 211, 184);
+}
+#estrofe1{
+    padding: 25px;
+}
+#estrofe2{
+    padding: 25px;
+    margin: 20;
+    
+}
+#estrofe3{
+    padding: 25px;
+}
+#estrofe4{
+    padding: 25px;
+}
+#estrofe5{
+    padding: 25px;
+}
+#estrofe6{
+    padding: 25px;
+}
+
+#fundo_de_flor{
+    background-position: center center ;
+    color: white;
+    height: 500px;
+    
+    
+    
+}
+#fundo_tranparente{
+    width: fit-content;
+    background-color: rgba(0, 0, 0, 0.185);
+    
+    
+    
+}
+#fundo_tranparente p{
+    background-color: transparent;
 }

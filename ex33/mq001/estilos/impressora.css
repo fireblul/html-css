@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+/* Estilos para imprimir*/ 
+
+*{
+    padding: 10px;
+    margin: 10px;
+
+}
+html{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+    line-height: 1.5;
+
+
+}
+menu {
+    display: nome;
+
+}
+article::after{
+    content: Esse artigo foi impresso atraves d o site ;
+}
